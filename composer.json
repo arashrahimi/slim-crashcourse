@@ -1,0 +1,5 @@
+{
+    "require": {
+        "slim/slim-skeleton": "^3.0"
+    }
+}
